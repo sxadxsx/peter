@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 15:54:54 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 13:55:05 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -443,6 +443,7 @@
   display: inline-block;
   -webkit-transition: color 300ms ease;
   transition: color 300ms ease;
+  color: #000;
 }
 
 .container-default-3 {
@@ -451,10 +452,12 @@
   margin-left: auto;
   padding-right: 24px;
   padding-left: 24px;
+  background-color: #fff;
 }
 
 .footer-link {
-  color: #6e7191;
+  background-color: transparent;
+  color: #000;
   text-decoration: none;
 }
 
@@ -479,6 +482,7 @@
 .footer-list-item {
   margin-bottom: 18px;
   padding-left: 0px;
+  background-color: transparent;
 }
 
 .footer-logo---brix {
@@ -533,7 +537,7 @@
 
 .text-300.bold.footer-title {
   margin-bottom: 40px;
-  color: #211f54;
+  color: #fff;
 }
 
 .footer-top {
@@ -549,10 +553,13 @@
 
 .mg-bottom-40px {
   margin-bottom: 40px;
+  background-color: transparent;
+  color: #fff;
 }
 
 .mg-bottom-0 {
   margin-bottom: 0px;
+  color: #000;
 }
 
 .icon-left---brix {
@@ -563,6 +570,19 @@
 
 .footer-logo-wrapper {
   margin-bottom: 24px;
+}
+
+._4 {
+  position: absolute;
+  left: 972px;
+  top: 2308.77px;
+  bottom: -1772.38px;
+  display: inline-block;
+}
+
+.bold-text-11 {
+  background-color: transparent;
+  color: #000;
 }
 
 @media screen and (min-width: 1440px) {
@@ -592,11 +612,19 @@
     left: 563px;
   }
 
+  .container-default-3 {
+    padding-left: 0px;
+  }
+
   .grid-footer-v1---5-column {
     grid-column-gap: 40px;
     grid-row-gap: 16px;
     -ms-grid-columns: 2fr 1fr 1fr 1fr auto;
     grid-template-columns: 2fr 1fr 1fr 1fr auto;
+  }
+
+  ._4 {
+    left: 1088px;
   }
 }
 
