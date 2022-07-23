@@ -1,4 +1,4 @@
-/* Generated on: Sat Jul 23 2022 13:59:52 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jul 23 2022 14:07:24 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -434,6 +434,7 @@
 }
 
 .footer-list-wrapper {
+  position: static;
   margin-bottom: 0px;
   padding-left: 0px;
   list-style-type: none;
@@ -709,6 +710,16 @@
 .link-2 {
   color: #000;
   text-decoration: none;
+}
+
+.div-block-2 {
+  position: relative;
+}
+
+.image-5 {
+  position: absolute;
+  left: 1179.4px;
+  top: 2800.23px;
 }
 
 @media screen and (min-width: 1440px) {
