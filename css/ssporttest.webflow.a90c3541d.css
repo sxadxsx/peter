@@ -1,4 +1,4 @@
-/* Generated on: Fri Aug 05 2022 05:31:53 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Aug 05 2022 05:34:27 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -357,7 +357,7 @@
 
 .image-3 {
   position: absolute;
-  left: 10px;
+  left: 274px;
   top: 301px;
 }
 
@@ -779,7 +779,7 @@
   }
 
   .image-3 {
-    left: 563px;
+    left: 331px;
   }
 
   .container-default-3 {
@@ -953,6 +953,11 @@
   .footer-bottom {
     padding-top: 24px;
     padding-bottom: 24px;
+  }
+
+  .image-4 {
+    margin-left: 54px;
+    padding-left: 0px;
   }
 
   .image-6 {
@@ -1150,8 +1155,8 @@
   }
 
   .image-3 {
-    left: 80px;
-    top: 197px;
+    left: 94px;
+    top: 242px;
   }
 
   .decoration-benefits_lines-on-right {
@@ -1234,8 +1239,8 @@
   }
 
   .image-6 {
-    left: -380px;
-    top: 265px;
+    left: 167px;
+    top: 239px;
   }
 
   .image-10 {
