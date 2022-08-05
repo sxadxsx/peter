@@ -1,4 +1,4 @@
-/* Generated on: Fri Aug 05 2022 05:38:14 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Aug 05 2022 05:38:47 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1229,6 +1229,10 @@
     padding-bottom: 0px;
   }
 
+  .image-4 {
+    margin-left: -1px;
+  }
+
   .div-block {
     margin-left: 150px;
   }
@@ -1248,7 +1252,7 @@
   }
 
   .image-10 {
-    left: 236px;
+    left: 276px;
     top: 136.1px;
   }
 }
