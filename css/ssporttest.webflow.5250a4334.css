@@ -1,4 +1,4 @@
-/* Generated on: Fri Aug 05 2022 05:39:48 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Aug 05 2022 09:30:39 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -305,7 +305,7 @@
 .section.hero {
   position: relative;
   overflow: hidden;
-  padding-bottom: 100px;
+  padding-bottom: 27px;
 }
 
 .blob-hero {
@@ -357,8 +357,8 @@
 
 .image-3 {
   position: absolute;
-  left: 274px;
-  top: 301px;
+  left: 93px;
+  top: 93px;
 }
 
 .decoration-benefits_lines-on-right {
@@ -729,8 +729,8 @@
 
 .image-6 {
   position: absolute;
-  left: 986px;
-  top: 27px;
+  left: 985px;
+  top: 86px;
   bottom: 228.3px;
 }
 
@@ -779,7 +779,8 @@
   }
 
   .image-3 {
-    left: 331px;
+    left: 144px;
+    top: 98px;
   }
 
   .container-default-3 {
@@ -799,6 +800,11 @@
 
   .image-5 {
     left: 1379.4px;
+  }
+
+  .image-6 {
+    left: 1096px;
+    top: 86px;
   }
 }
 
@@ -904,7 +910,8 @@
   }
 
   .image-3 {
-    left: 161px;
+    left: 115px;
+    top: 263px;
   }
 
   .margin-bottom {
@@ -961,8 +968,8 @@
   }
 
   .image-6 {
-    left: 528px;
-    top: 187px;
+    left: 521px;
+    top: 439px;
   }
 }
 
@@ -1074,7 +1081,7 @@
 
   .image-6 {
     left: 295px;
-    top: 296px;
+    top: 319px;
   }
 }
 
@@ -1159,8 +1166,8 @@
   }
 
   .image-3 {
-    left: 94px;
-    top: 242px;
+    left: -51px;
+    top: 125px;
   }
 
   .decoration-benefits_lines-on-right {
@@ -1230,6 +1237,7 @@
   }
 
   .image-4 {
+    margin-top: 28px;
     margin-left: -1px;
   }
 
@@ -1248,7 +1256,7 @@
 
   .image-6 {
     left: 167px;
-    top: 239px;
+    top: 178px;
   }
 
   .image-10 {
